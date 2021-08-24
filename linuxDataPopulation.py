@@ -1,7 +1,7 @@
 import time
 import paramiko
 import traceback
-import linuxDataPopulationGlobalVariableCopy as gfile
+import linuxDataPopulationGlobalVariable as gfile
 import sys
 
 start = time.time()

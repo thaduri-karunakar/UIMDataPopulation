@@ -1,7 +1,7 @@
 import sys
 import time
 import traceback
-import windowsDataPopulationGlobalVariableCopy as gfile
+import windowsDataPopulationGlobalVariable as gfile
 from pypsexec.client import Client
 
 start = time.time()
